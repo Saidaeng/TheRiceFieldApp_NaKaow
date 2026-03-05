@@ -18,4 +18,4 @@ These datasets were used to train and develop a machine learning model for rice 
 
 ## Screenshots
 
-<img src="https://drive.google.com/uc?export=view&id=1rG0sXtfsho7T1_iF3DtcJH63Tc7hJJf7" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1rG0sXtfsho7T1_iF3DtcJH63Tc7hJJf7" width="500">
